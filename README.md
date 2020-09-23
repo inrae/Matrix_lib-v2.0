@@ -9,6 +9,8 @@ Author : CABOS Matthieu
 
 Release Date   : 23/09/2020
 
+Organisation : INRAE-CNRS
+
 This repository contain my optimized Python Matrix lib..
 
 The cmatrix.pyx is the cythonized version of the matrix.py library containing all standard
